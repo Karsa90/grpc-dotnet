@@ -12,7 +12,7 @@
     <MicrosoftCodeAnalysisNetAnalyzersPackageVersion>6.0.0-rc1.21366.3</MicrosoftCodeAnalysisNetAnalyzersPackageVersion>
     <MicrosoftCrankEventSourcesPackageVersion>0.2.0-alpha.21255.1</MicrosoftCrankEventSourcesPackageVersion>
     <MicrosoftExtensionsLoggingTestingPackageVersion>2.1.1</MicrosoftExtensionsLoggingTestingPackageVersion>
-    <MicrosoftExtensionsPackageVersion>3.0.3</MicrosoftExtensionsPackageVersion>
+    <MicrosoftExtensionsPackageVersion>5.0.0</MicrosoftExtensionsPackageVersion>
     <MicrosoftNETTestSdkPackageVersion>16.9.1</MicrosoftNETTestSdkPackageVersion>
     <MicrosoftSourceLinkGitHubPackageVersion>1.0.0</MicrosoftSourceLinkGitHubPackageVersion>
     <MicrosoftTyePackageVersion>0.5.0-alpha.20555.1</MicrosoftTyePackageVersion>
